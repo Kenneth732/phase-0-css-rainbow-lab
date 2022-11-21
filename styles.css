@@ -1,0 +1,29 @@
+* {
+    color: red; /* color in CSS refers to font color */
+  }
+  #red {
+    /* this selects any elements with the red id */
+    border-top-color: #f00;
+  }
+
+  .maroon{
+    background-color: maroon;
+  }
+  .yellow{
+    background: yellow;
+  }
+
+  .green{
+    background-color: green;
+  }
+
+  .paleturquoise{
+    background: rgb(60, 174, 174);
+  }
+  .navy{
+    background-color: navy;
+  }
+  div{
+    padding: 30px;
+    border-radius: 10px;
+  }
